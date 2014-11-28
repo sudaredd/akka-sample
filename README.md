@@ -1,3 +1,3 @@
 akka-sample
 ===========
-Starting with Java and Akka sample
+Java and Akka sample
